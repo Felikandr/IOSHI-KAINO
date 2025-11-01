@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "bloodRed": "#9d0409",
+    "darkBg": "#0a0a0a",
+    "textLight": "#f0f0f0"
+  },
+  "text": {
+    "mainTitle": "IOSHI KAINO",
+    "subtitle": "В поисках призвания",
+    "greeting": "ДЕМОНИЧЕСКАЯ КОЗОЧКА",
+    "tagline": "Грубая, мерзкая, резкая, эгоистичная... Ну да, с кем не бывает?"
+  },
+  "images": {
+    "home": "https://i.postimg.cc/1RVFHWBx/1761655418733.png",
+    "about": "https://i.postimg.cc/9M1PZzY4/1761711357634.jpg",
+    "product1": "https://i.postimg.cc/J7SmsYXf/Bez-nazvania133-20251029120426.jpg",
+    "product2": "https://i.postimg.cc/Znv7Qj0d/Bez-nazvania133-20251029171530.png"
+  },
+  "lastUpdated": "2025-11-01T11:27:25.249Z"
+}
